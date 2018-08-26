@@ -1,0 +1,7 @@
+{
+  "name": "Naissance",
+  "description": "Chris & Elo liste",
+  "repository": "https://github.com/ChristoJal/showcase",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
